@@ -524,3 +524,8 @@ footer .footer-below {
 .project-title:hover {
     text-decoration: underline;
 }
+
+.port {
+    font-size: 25px;
+    text-align: center;
+}
